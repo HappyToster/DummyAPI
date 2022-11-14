@@ -113,7 +113,7 @@ picture: string(url)
 
 Коллекции
 Post [https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json]
-Post Use Case []
+Post Use Case [https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json]
 
 Окружение [https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
 

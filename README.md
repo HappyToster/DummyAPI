@@ -123,7 +123,7 @@ Post [https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.
 Post Use Case [https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json]
 
 Окружение
-[https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
+[Окружение](https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json).
 
 ## Автотесты
 

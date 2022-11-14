@@ -110,3 +110,8 @@ picture: string(url)
 Также были оформлены тест-кейсы и баг-репорты в соответствии с майнд-картой.
 
 Тест-кейсы можно посмотреть [тут], а баг-репорты - [тут].
+
+Коллекции
+
+Окружение [https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
+

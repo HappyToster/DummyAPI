@@ -119,10 +119,9 @@ picture: string(url)
 Тест-кейсы можно посмотреть [тут], а баг-репорты - [тут].
 
 ## Коллекции и Окружение
-Post [https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json]
-Post Use Case [https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json]
+[Post](https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json)
+[Post Use Case](https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json)
 
-Окружение
 [Окружение](https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json).
 
 ## Автотесты

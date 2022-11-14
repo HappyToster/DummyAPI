@@ -112,6 +112,8 @@ picture: string(url)
 Тест-кейсы можно посмотреть [тут], а баг-репорты - [тут].
 
 Коллекции
+Post [https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json]
+Post Use Case []
 
 Окружение [https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
 

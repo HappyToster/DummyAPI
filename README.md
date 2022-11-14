@@ -117,7 +117,7 @@ picture: string(url)
 
 Также были оформлены тест-кейсы и баг-репорты в соответствии с майнд-картой.
 
-Тест-кейсы можно посмотреть [тут], а баг-репорты - [тут].
+Тест-кейсы можно посмотреть [тут](https://docs.google.com/spreadsheets/d/1Oa3GfswJRE9JRMjEbxRRaC9F5ieCOHGqAL4nK5PMgF4/edit?usp=sharing), а баг-репорты - [тут](https://docs.google.com/spreadsheets/d/1sYBQzHd1aoZq-LwWPNHRv8isN1FYp_Dh-hkiF8LtIXw/edit?usp=sharing).
 
 ## Коллекции и Окружение
 [Post](https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json)

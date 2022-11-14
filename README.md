@@ -4,7 +4,14 @@
 
 
 ## Оглавление
-
+1. [Описание проекта](#описание-проекта)
+    1. [POST](#post)
+        1. [GET / post(Get List)](#get-post-get-list)
+2. [Майнд-карта](#майнд-карта)
+3. [Тест-кейсы и Баг-репорты](#тест-кейсы-и-баг-репорты)
+4. [Коллекции](#коллекции)
+5. [Окружение](#окружение)
+6. [Автотесты](#автотесты)
 
 
 ## Описание проекта
@@ -111,9 +118,12 @@ picture: string(url)
 
 Тест-кейсы можно посмотреть [тут], а баг-репорты - [тут].
 
-Коллекции
+## Коллекции
 Post [https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json]
 Post Use Case [https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json]
 
-Окружение [https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
+## Окружение
+[https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
+
+## Автотесты
 

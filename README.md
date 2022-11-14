@@ -9,9 +9,8 @@
         1. [GET / post(Get List)](#get-post-get-list)
 2. [Майнд-карта](#майнд-карта)
 3. [Тест-кейсы и Баг-репорты](#тест-кейсы-и-баг-репорты)
-4. [Коллекции](#коллекции)
-5. [Окружение](#окружение)
-6. [Автотесты](#автотесты)
+4. [Коллекции и Окружение](#коллекции-и-окружение)
+5. [Автотесты](#автотесты)
 
 
 ## Описание проекта
@@ -118,11 +117,11 @@ picture: string(url)
 
 Тест-кейсы можно посмотреть [тут], а баг-репорты - [тут].
 
-## Коллекции
+## Коллекции и Окружение
 Post [https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json]
 Post Use Case [https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json]
 
-## Окружение
+Окружение
 [https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json].
 
 ## Автотесты

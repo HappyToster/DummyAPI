@@ -114,7 +114,7 @@ picture: string(url)
 ![Alt-текст](https://i.imgur.com/WAkMnDj.png "МК")
 
 ## Тест-кейсы и Баг-репорты
-
+ДОДЕЛАТЬ
 Также были оформлены тест-кейсы и баг-репорты в соответствии с майнд-картой.
 
 Тест-кейсы можно посмотреть [тут](https://docs.google.com/spreadsheets/d/1Oa3GfswJRE9JRMjEbxRRaC9F5ieCOHGqAL4nK5PMgF4/edit?usp=sharing), а баг-репорты - [тут](https://docs.google.com/spreadsheets/d/1sYBQzHd1aoZq-LwWPNHRv8isN1FYp_Dh-hkiF8LtIXw/edit?usp=sharing).
@@ -127,4 +127,4 @@ picture: string(url)
 [Окружение](https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json)
 
 ## Автотесты
-
+ДОДЕЛАТЬ

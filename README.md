@@ -9,10 +9,7 @@
         1. [GET / post(Get List)](#get-post-get-list)
         2. [POST /post/create (Create Post)](#post-postcreate-create-post)
 2. [Майнд-карта](#майнд-карта)
-3. [Тест-кейсы и Баг-репорты](#тест-кейсы-и-баг-репорты)
 4. [Коллекции и Окружение](#коллекции-и-окружение)
-5. [Автотесты](#автотесты)
-
 
 ## Описание проекта
 
@@ -113,12 +110,6 @@ picture: string(url)
 
 ![Alt-текст](https://i.imgur.com/WAkMnDj.png "МК")
 
-## Тест-кейсы и Баг-репорты
-**ДОДЕЛАТЬ**
-
-Также были оформлены тест-кейсы и баг-репорты в соответствии с майнд-картой.
-
-Тест-кейсы можно посмотреть [тут](https://docs.google.com/spreadsheets/d/1Oa3GfswJRE9JRMjEbxRRaC9F5ieCOHGqAL4nK5PMgF4/edit?usp=sharing), а баг-репорты - [тут](https://docs.google.com/spreadsheets/d/1sYBQzHd1aoZq-LwWPNHRv8isN1FYp_Dh-hkiF8LtIXw/edit?usp=sharing).
 
 ## Коллекции и Окружение
 [Post](https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json)
@@ -126,7 +117,3 @@ picture: string(url)
 [Post Use Case](https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json)
 
 [Окружение](https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json)
-
-## Автотесты
-
-**ДОДЕЛАТЬ**

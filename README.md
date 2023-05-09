@@ -59,6 +59,9 @@ lastName: string(length: 2-50)
 picture: string(url)
 }
 ```
+
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
 _____
 #### POST /post/create (Create Post)
 Создает новый пост. Возвращает данные о созданном посте.
@@ -103,6 +106,9 @@ picture: string(url)
 }
 ```
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
+_____
 
 ## Майнд-карта
 Данная МК представляет собой набор тестов для тестирования объекта **Post**. Подробная проверка расписана для **Get List** и **Create Post**.
@@ -110,6 +116,9 @@ picture: string(url)
 
 ![Alt-текст](https://i.imgur.com/WAkMnDj.png "МК")
 
+[:arrow_up:Вернуться к оглавлению](#оглавление)
+
+_____
 
 ## Коллекции и Окружение
 [Post](https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json)

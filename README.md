@@ -6,7 +6,8 @@
         1. [GET / post(Get List)](#get-post-get-list)
         2. [POST /post/create (Create Post)](#post-postcreate-create-post)
 2. [Майнд-карта](#майнд-карта)
-4. [Коллекции и Окружение](#коллекции-и-окружение)
+4. [Коллекции](#коллекции)
+5. [Окружение](#окружение)
 
 ## Описание проекта
 
@@ -117,9 +118,17 @@ _____
 
 _____
 
-## Коллекции и Окружение
+## Коллекции
 [Post](https://github.com/LesyaTester/DummyAPI/blob/main/Post.postman_collection.json)
+
+![Alt-текст](https://github.com/HappyToster/DummyAPI/assets/97261554/89c5d826-d236-44aa-b2d4-07a090b827cf)
+![Alt-текст](https://github.com/HappyToster/DummyAPI/assets/97261554/c4fb4290-e8f6-47cf-8946-fdc69f5e046a)
 
 [Post Use Case](https://github.com/LesyaTester/DummyAPI/blob/main/PostUseCase.postman_collection.json)
 
+![Alt-текст](https://github.com/HappyToster/DummyAPI/assets/97261554/d016550b-3839-47c0-aa83-e86efd2c36ce)
+
+## Окружение
 [Окружение](https://github.com/LesyaTester/DummyAPI/blob/main/DummiAPI.postman_environment.json)
+
+[:arrow_up:Вернуться к оглавлению](#оглавление)

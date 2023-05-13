@@ -5,7 +5,7 @@
     1. [POST](#post)
         1. [GET / post(Get List)](#get-post-get-list)
         2. [POST /post/create (Create Post)](#post-postcreate-create-post)
-2. [Майнд-карта](#майнд-карта)
+2. [Майнд-карта с набором тестов](#майнд-карта)
 4. [Коллекции](#коллекции)
 5. [Окружение](#окружение)
 

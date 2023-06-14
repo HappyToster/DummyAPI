@@ -110,7 +110,7 @@ _____
 
 ## Майнд-карта
 Данная МК представляет собой набор тестов для тестирования объекта **Post**. Подробная проверка расписана для **Get List** и **Create Post**.
-Майнд-карту можно [скачать](https://github.com/OMiUI/DummyAPI/blob/main/DummyAPI.xmind).
+Майнд-карту можно [скачать](https://github.com/LesyaTester/DummyAPI/blob/main/DummyAPI.xmind).
 
 ![Alt-текст](https://i.imgur.com/WAkMnDj.png "МК")
 
